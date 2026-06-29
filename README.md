@@ -18,7 +18,27 @@ python3 scan_flats.py          # run scan → reports/latest.json
 
 Edit `config.json` to adjust school location, room minimum, or excluded zones.
 
-## Hourly scan (optional)
+Edit `config.json` to adjust school location, room minimum, or excluded zones.
+
+## Deploy to Vercel
+
+The dashboard is static. Listing data comes from `reports/latest.json`, updated hourly by GitHub Actions.
+
+1. Push this repo to GitHub (`github.com/diegocadenas/barcelona-apt`).
+2. Sign in at [vercel.com](https://vercel.com) with your **personal** GitHub account (not IBM).
+3. **Add New Project** → import `diegocadenas/barcelona-apt`.
+4. Settings:
+   - **Framework Preset:** Other
+   - **Build Command:** leave empty
+   - **Output Directory:** `.` (root)
+   - **Install Command:** leave empty
+5. Click **Deploy**.
+
+Your site will be live at something like `https://barcelona-apt.vercel.app`. Each hourly scan commit triggers an automatic redeploy.
+
+Enable GitHub Actions on the repo (Settings → Actions → Allow) so the hourly workflow runs.
+
+## Hourly scan (optional, local Mac)
 
 ```bash
 cp com.barcelona-apt.daily-scan.plist ~/Library/LaunchAgents/

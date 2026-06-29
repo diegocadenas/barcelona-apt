@@ -1,5 +1,7 @@
 logs/
-reports/
+reports/*
+!reports/latest.json
+!reports/latest.md
 __pycache__/
 *.pyc
 .DS_Store

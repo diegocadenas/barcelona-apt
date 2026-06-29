@@ -1,0 +1,28 @@
+name: Hourly apartment scan
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scan
+        run: python3 scan_flats.py
+
+      - name: Commit updated listings
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update apartment listings"
+          file_pattern: reports/latest.json reports/latest.md geocode_cache.json
