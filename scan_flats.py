@@ -103,7 +103,15 @@ def parse_availability(raw: str) -> tuple[str | None, int | None, int | None]:
             month = num
             break
 
-    label = raw.strip() if raw.strip() else None
+    label = None
+    if day is not None and month is not None:
+        label = f"{day} {MONTH_LABELS[month]}"
+    elif raw.strip():
+        label = re.sub(r"^Entry\s+", "", raw.strip(), flags=re.I)
+        for name, num in MONTH_ORDER.items():
+            if name in upper and num in MONTH_LABELS:
+                label = re.sub(rf"\b{name}\b", MONTH_LABELS[num], label, flags=re.I)
+                break
     sort_key = (month if month is not None else 99, day if day is not None else 99)
     return (label, month, sort_key)
 

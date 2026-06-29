@@ -438,6 +438,17 @@
       return titleCase(cleaned);
     }
 
+    function formatAvailability(flat) {
+      if (isAvailableNow(flat)) return "Available now";
+      const dayMatch = (flat.availability || "").match(/(\d{1,2})/);
+      const day = dayMatch ? parseInt(dayMatch[1], 10) : null;
+      const monthLabel = flat.availability_month_label;
+      if (day != null && monthLabel && flat.availability_month) {
+        return `${day} ${monthLabel}`;
+      }
+      return (flat.availability || "").replace(/^Entry\s+/i, "").trim();
+    }
+
     function isAvailableNow(flat) {
       return flat.availability_month === 0;
     }
@@ -492,9 +503,11 @@
     }
 
     function popupHtml(flat) {
+      const avail = formatAvailability(flat);
       return `
         <div class="popup-title">${formatStreet(flat.street)}</div>
         <div>€${flat.total}/mo · ${flat.rooms} rooms${flat.walk_min != null ? ` · ~${flat.walk_min} min` : ""}</div>
+        <div>${avail}</div>
         <a class="popup-link" href="${flat.url}" target="_blank" rel="noopener">View listing →</a>
       `;
     }
@@ -605,7 +618,7 @@
               ${flat.walk_min != null ? `<span class="tag tag-walk">~${flat.walk_min} min walk</span>` : ""}
               ${availNow
                 ? `<span class="tag tag-now">Available now</span>`
-                : `<span class="tag">${flat.availability}</span>`}
+                : `<span class="tag">${formatAvailability(flat)}</span>`}
             </div>
             ${flat.subway ? `<div class="tags" style="margin-top:0.5rem"><span class="tag tag-metro">🚇 ${flat.subway}</span></div>` : ""}
           </div>
