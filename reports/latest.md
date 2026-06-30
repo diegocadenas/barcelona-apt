@@ -1,4 +1,4 @@
-# Barcelona apartment scan — 2026-06-30 15:31
+# Barcelona apartment scan — 2026-06-30 17:59
 
 School: Carrer de Provença 216, Barcelona, Spain
 Criteria: 3+ rooms, ≤30 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no October availability
@@ -13,7 +13,7 @@ Criteria: 3+ rooms, ≤30 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no 
 | 4 | [2473](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2473) | DE GIRONA | EIXAMPLE DRET | 4 | €1985 | 5 July | ~15 min | L5 y L4 "VERDAGUER", L3 y L5 "DIAGONAL" y L4 "GIRONA" |
 | 5 | [2322](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2322) | DEL PASSEIG DE SANT JOAN | EIXAMPLE DRET | 3 | €1875 | 8 July | ~19 min | L5 -L4 "VERDAGUER" |
 | 6 | [2242](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2242) | DE BALMES | SANT GERVASI | 4 | €2075 | 7 August | ~11 min | FGC "SANT GERVASI" y "PL.MOLINA" |
-| 7 | [1125](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1125) | DE SANT PERE MÀRTIR | GRÀCIA | 3 | €1361 | 7 July | ~11 min | L3, L5 "DIAGONAL", L3 "FONTANA" y FGC L6/L7 "GRACIA" |
+| 7 | [1125](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1125) | DE SANT PERE MÀRTIR | GRÀCIA | 3 | €1427 | Available now | ~11 min | L3, L5 "DIAGONAL", L3 "FONTANA" y FGC L6/L7 "GRACIA" |
 | 8 | [2258](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2258) | DE SANTA ÀGATA | GRÀCIA | 3 | €1382 | Available now | ~19 min | L3 "FONTANA" |
 | 9 | [2352](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2352) | DE SICÍLIA | GRÀCIA | 3 | €1378 | 10 July | ~23 min | L4 "JOANIC" |
 | 10 | [1230](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1230) | DE LA LEGALITAT | GRÀCIA | 4 | €1380 | 6 July | ~23 min | L4"Joanic", L3 "Fontana" |
