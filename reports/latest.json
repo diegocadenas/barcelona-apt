@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T15:46:04.533802",
-  "generated_label": "01 Jul 2026, 15:46",
+  "generated_at": "2026-07-01T18:00:19.651308",
+  "generated_label": "01 Jul 2026, 18:00",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -19,12 +19,12 @@
     {
       "value": 0,
       "label": "Available now",
-      "count": 2
+      "count": 3
     },
     {
       "value": 7,
       "label": "July",
-      "count": 8
+      "count": 7
     },
     {
       "value": 8,
@@ -117,9 +117,9 @@
       "rent": 1805,
       "supplies": 180,
       "total": 1985,
-      "availability": "5 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
+      "availability": "Available now",
+      "availability_month": 0,
+      "availability_month_label": "Available now",
       "walk_min": 15,
       "dist_km": 1.27,
       "lat": 41.3962908,
