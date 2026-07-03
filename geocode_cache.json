@@ -118,5 +118,10 @@
     "lat": 41.3848988,
     "lon": 2.1730176,
     "query": "DE LA CANUDA, CIUTAT VELLA, Barcelona, Spain"
+  },
+  "1886": {
+    "lat": 41.4009503,
+    "lon": 2.1862283,
+    "query": "DE LOS CASTILLEJOS, EIXAMPLE DRET, Barcelona, Spain"
   }
 }
