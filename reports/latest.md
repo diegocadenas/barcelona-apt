@@ -1,4 +1,4 @@
-# Barcelona apartment scan — 2026-07-05 00:10
+# Barcelona apartment scan — 2026-07-05 04:59
 
 School: Carrer de Provença 216, Barcelona, Spain
 Criteria: 3+ rooms, ≤30 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no October availability
