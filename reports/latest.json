@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T16:23:42.518660",
-  "generated_label": "06 Jul 2026, 16:23",
+  "generated_at": "2026-07-07T04:55:08.767732",
+  "generated_label": "07 Jul 2026, 04:55",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,17 +14,17 @@
       10
     ]
   },
-  "count": 14,
+  "count": 13,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 4
+      "count": 6
     },
     {
       "value": 7,
       "label": "July",
-      "count": 6
+      "count": 3
     },
     {
       "value": 8,
@@ -59,28 +59,6 @@
       "lat": 41.3900894,
       "lon": 2.152971,
       "subway": "L1 \"URGELL\" y L1- L2 \"UNIVERSIDAD\""
-    },
-    {
-      "code": "2470",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2470",
-      "street": "DE PARIS",
-      "zone": "EIXAMPLE ESQUERRA",
-      "tier": 0,
-      "tier_label": "Eixample",
-      "rooms": 4,
-      "m2": 87,
-      "baths": 1,
-      "rent": 1466,
-      "supplies": 150,
-      "total": 1616,
-      "availability": "5 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
-      "walk_min": 5,
-      "dist_km": 0.44,
-      "lat": 41.3941538,
-      "lon": 2.1539818,
-      "subway": "L5 \"HOSPITAL CLINIC\" y L5 \"ENTENÇA\""
     },
     {
       "code": "2090",
@@ -271,9 +249,9 @@
       "rent": 1828,
       "supplies": 175,
       "total": 2003,
-      "availability": "5 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
+      "availability": "Available now",
+      "availability_month": 0,
+      "availability_month_label": "Available now",
       "walk_min": 17,
       "dist_km": 1.44,
       "lat": 41.38776,
@@ -337,9 +315,9 @@
       "rent": 1206,
       "supplies": 150,
       "total": 1356,
-      "availability": "10 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
+      "availability": "Available now",
+      "availability_month": 0,
+      "availability_month_label": "Available now",
       "walk_min": 28,
       "dist_km": 2.3,
       "lat": 41.3725768,
