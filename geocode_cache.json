@@ -123,5 +123,10 @@
     "lat": 41.4009503,
     "lon": 2.1862283,
     "query": "DE LOS CASTILLEJOS, EIXAMPLE DRET, Barcelona, Spain"
+  },
+  "1798": {
+    "lat": 41.4103432,
+    "lon": 2.171069,
+    "query": "DE PADILLA, EIXAMPLE DRET, Barcelona, Spain"
   }
 }
