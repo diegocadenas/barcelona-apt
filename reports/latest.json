@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T18:05:54.838977",
-  "generated_label": "09 Jul 2026, 18:05",
+  "generated_at": "2026-07-09T20:49:32.547529",
+  "generated_label": "09 Jul 2026, 20:49",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,12 +14,12 @@
       10
     ]
   },
-  "count": 13,
+  "count": 12,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 6
+      "count": 5
     },
     {
       "value": 7,
@@ -235,28 +235,6 @@
       "lat": 41.4077913,
       "lon": 2.1597415,
       "subway": "L4\"Joanic\", L3 \"Fontana\""
-    },
-    {
-      "code": "2475",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2475",
-      "street": "DE MONTNEGRE",
-      "zone": "LES CORTS",
-      "tier": 2,
-      "tier_label": "Other",
-      "rooms": 4,
-      "m2": 113,
-      "baths": 2,
-      "rent": 1828,
-      "supplies": 175,
-      "total": 2003,
-      "availability": "Available now",
-      "availability_month": 0,
-      "availability_month_label": "Available now",
-      "walk_min": 17,
-      "dist_km": 1.44,
-      "lat": 41.38776,
-      "lon": 2.1391659,
-      "subway": "L5 \"ENTENÇA\" y L3 \"LES CORTS\""
     },
     {
       "code": "2465",
