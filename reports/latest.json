@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:58:27.087227",
-  "generated_label": "10 Jul 2026, 16:58",
+  "generated_at": "2026-07-10T18:38:30.423922",
+  "generated_label": "10 Jul 2026, 18:38",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,7 +14,7 @@
       10
     ]
   },
-  "count": 12,
+  "count": 11,
   "available_months": [
     {
       "value": 0,
@@ -29,7 +29,7 @@
     {
       "value": 8,
       "label": "August",
-      "count": 4
+      "count": 3
     }
   ],
   "school": {
@@ -257,28 +257,6 @@
       "lat": 41.3805356,
       "lon": 2.1347798,
       "subway": "L5 \"BADAL\" Y L3 \"LES CORTS\""
-    },
-    {
-      "code": "2454",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2454",
-      "street": "DE POETA CABANYES",
-      "zone": "POBLE SEC",
-      "tier": 2,
-      "tier_label": "Other",
-      "rooms": 3,
-      "m2": 65,
-      "baths": 1,
-      "rent": 955,
-      "supplies": 150,
-      "total": 1105,
-      "availability": "5 August",
-      "availability_month": 8,
-      "availability_month_label": "August",
-      "walk_min": 26,
-      "dist_km": 2.2,
-      "lat": 41.3717302,
-      "lon": 2.1641865,
-      "subway": "L2-L3 \"PARAL.LEL\" Y L3 \"POBLE SEC\""
     },
     {
       "code": "1682",

@@ -128,5 +128,10 @@
     "lat": 41.4103432,
     "lon": 2.171069,
     "query": "DE PADILLA, EIXAMPLE DRET, Barcelona, Spain"
+  },
+  "2161": {
+    "lat": 41.3806445,
+    "lon": 2.1687369,
+    "query": "D'EN ROIG, CIUTAT VELLA, Barcelona, Spain"
   }
 }

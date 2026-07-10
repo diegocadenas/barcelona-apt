@@ -1,4 +1,4 @@
-# Barcelona apartment scan — 2026-07-10 16:58
+# Barcelona apartment scan — 2026-07-10 18:38
 
 School: Carrer de Provença 216, Barcelona, Spain
 Criteria: 3+ rooms, ≤30 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no October availability
@@ -17,5 +17,4 @@ Criteria: 3+ rooms, ≤30 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no 
 | 8 | [2352](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2352) | DE SICÍLIA | GRÀCIA | 3 | €1378 | 10 July | ~23 min | L4 "JOANIC" |
 | 9 | [1230](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1230) | DE LA LEGALITAT | GRÀCIA | 4 | €1380 | 6 July | ~23 min | L4"Joanic", L3 "Fontana" |
 | 10 | [2465](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2465) | DE VIOLANT D'HONGRIA REINA D'ARAGO | SANTS | 3 | €1261 | Available now | ~25 min | L5 "BADAL" Y L3 "LES CORTS" |
-| 11 | [2454](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2454) | DE POETA CABANYES | POBLE SEC | 3 | €1105 | 5 August | ~26 min | L2-L3 "PARAL.LEL" Y L3 "POBLE SEC" |
-| 12 | [1682](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1682) | CARRETERA DE LA BORDETA | BORDETA | 4 | €1356 | Available now | ~28 min | L1, L3 "ESPANYA" |
+| 11 | [1682](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1682) | CARRETERA DE LA BORDETA | BORDETA | 4 | €1356 | Available now | ~28 min | L1, L3 "ESPANYA" |
