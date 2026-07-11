@@ -3,7 +3,7 @@
   "school_coords": [41.3905065, 2.1560591],
   "listing_url": "https://www.habitatgejove.com/webv2c/en/pisos.asp",
   "min_rooms": 3,
-  "max_walk_minutes": 30,
+  "max_walk_minutes": 40,
   "exclude_zones": ["RAVAL", "CIUTAT VELLA", "HOSPITALET"],
   "exclude_availability_months": [10],
   "geocode_overrides": {

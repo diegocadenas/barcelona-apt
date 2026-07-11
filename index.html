@@ -410,7 +410,7 @@
     </div>
     <div class="map-wrap" id="map-wrap">
       <div id="map"></div>
-      <div class="map-note">Blue dot = school · Terracotta = Eixample · Green = Gràcia area · Grey = other · Shaded area ≈ 30 min walk</div>
+      <div class="map-note" id="map-note">Blue dot = school · Terracotta = Eixample · Green = Gràcia area · Grey = other · Shaded area ≈ 40 min walk</div>
     </div>
   </main>
 
@@ -545,7 +545,7 @@
         address: data?.school_address || "School",
       };
 
-      const maxWalk = data?.criteria?.max_walk_minutes || 30;
+      const maxWalk = data?.criteria?.max_walk_minutes || 40;
       const radiusM = (maxWalk / 60) * 5 * 1000;
 
       L.circle([school.lat, school.lon], {
@@ -661,6 +661,8 @@
         document.getElementById("school").textContent = "📍 " + data.school_address;
         document.getElementById("meta").innerHTML =
           `<strong>${data.count} flats</strong> · Last scan: ${data.generated_label} · ${data.criteria.min_rooms}+ rooms, ≤${data.criteria.max_walk_minutes} min walk`;
+        document.getElementById("map-note").textContent =
+          `Blue dot = school · Terracotta = Eixample · Green = Gràcia area · Grey = other · Shaded area ≈ ${data.criteria.max_walk_minutes} min walk`;
 
         renderMonthFilters();
         render();

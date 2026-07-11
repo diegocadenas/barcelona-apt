@@ -4,7 +4,7 @@ Hourly scanner for [Habitatge Jove](https://www.habitatgejove.com/webv2c/en/piso
 
 ## Features
 
-- Filters 3+ bedroom flats within ~30 min walk of school
+- Filters 3+ bedroom flats within ~40 min walk of school
 - Excludes Raval, Ciutat Vella, and L'Hospitalet
 - Web dashboard with list + map views and month filters
 - Optional hourly scan via macOS `launchd`
