@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-11T16:01:46.730966",
-  "generated_label": "11 Jul 2026, 16:01",
+  "generated_at": "2026-07-11T17:23:19.872105",
+  "generated_label": "11 Jul 2026, 17:23",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
-    "max_walk_minutes": 30,
+    "max_walk_minutes": 40,
     "exclude_zones": [
       "RAVAL",
       "CIUTAT VELLA",
@@ -14,12 +14,12 @@
       10
     ]
   },
-  "count": 11,
+  "count": 14,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 5
+      "count": 6
     },
     {
       "value": 7,
@@ -29,7 +29,12 @@
     {
       "value": 8,
       "label": "August",
-      "count": 3
+      "count": 4
+    },
+    {
+      "value": 9,
+      "label": "September",
+      "count": 1
     }
   ],
   "school": {
@@ -125,6 +130,50 @@
       "lat": 41.3971568,
       "lon": 2.1726354,
       "subway": "L5 -L4 \"VERDAGUER\""
+    },
+    {
+      "code": "1798",
+      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1798",
+      "street": "DE PADILLA",
+      "zone": "EIXAMPLE DRET",
+      "tier": 0,
+      "tier_label": "Eixample",
+      "rooms": 3,
+      "m2": 96,
+      "baths": 1,
+      "rent": 1409,
+      "supplies": 150,
+      "total": 1559,
+      "availability": "10 August",
+      "availability_month": 8,
+      "availability_month_label": "August",
+      "walk_min": 30,
+      "dist_km": 2.54,
+      "lat": 41.4103432,
+      "lon": 2.171069,
+      "subway": "L2, L5 \"SAGRADA FAMILIA\" L5\"HOSPITAL ST PAU\""
+    },
+    {
+      "code": "1886",
+      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1886",
+      "street": "DE LOS CASTILLEJOS",
+      "zone": "EIXAMPLE DRET",
+      "tier": 0,
+      "tier_label": "Eixample",
+      "rooms": 3,
+      "m2": 84,
+      "baths": 2,
+      "rent": 1302,
+      "supplies": 150,
+      "total": 1452,
+      "availability": "5 September",
+      "availability_month": 9,
+      "availability_month_label": "September",
+      "walk_min": 33,
+      "dist_km": 2.77,
+      "lat": 41.4009503,
+      "lon": 2.1862283,
+      "subway": "L1 \"PLAZA LAS GLORIAS\", L2 \"MONUMENTAL\" L2, L5 \"SAGRADA FAMILIA\""
     },
     {
       "code": "2242",
@@ -279,6 +328,28 @@
       "lat": 41.3725768,
       "lon": 2.1422003,
       "subway": "L1, L3 \"ESPANYA\""
+    },
+    {
+      "code": "1472",
+      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1472",
+      "street": "DE LA TRADICIÓ",
+      "zone": "SARRIÀ",
+      "tier": 2,
+      "tier_label": "Other",
+      "rooms": 3,
+      "m2": 82,
+      "baths": 1,
+      "rent": 1325,
+      "supplies": 150,
+      "total": 1475,
+      "availability": "Available now",
+      "availability_month": 0,
+      "availability_month_label": "Available now",
+      "walk_min": 32,
+      "dist_km": 2.64,
+      "lat": 41.3962055,
+      "lon": 2.1253882,
+      "subway": "FGC L6 \"TRES TORRES\" y FGC L6 \"SARRIA\",L3 \"MARIA CRISTINA\""
     }
   ]
 }
