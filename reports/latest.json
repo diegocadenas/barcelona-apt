@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T05:34:18.331063",
-  "generated_label": "14 Jul 2026, 05:34",
+  "generated_at": "2026-07-14T08:12:06.117569",
+  "generated_label": "14 Jul 2026, 08:12",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,7 +14,7 @@
       10
     ]
   },
-  "count": 14,
+  "count": 15,
   "available_months": [
     {
       "value": 0,
@@ -29,7 +29,7 @@
     {
       "value": 8,
       "label": "August",
-      "count": 4
+      "count": 5
     },
     {
       "value": 9,
@@ -64,6 +64,28 @@
       "lat": 41.3900894,
       "lon": 2.152971,
       "subway": "L1 \"URGELL\" y L1- L2 \"UNIVERSIDAD\""
+    },
+    {
+      "code": "2018",
+      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2018",
+      "street": "DEL COMTE D'URGELL",
+      "zone": "EIXAMPLE ESQUERRA",
+      "tier": 0,
+      "tier_label": "Eixample",
+      "rooms": 3,
+      "m2": 85,
+      "baths": 2,
+      "rent": 1215,
+      "supplies": 140,
+      "total": 1355,
+      "availability": "1 August",
+      "availability_month": 8,
+      "availability_month_label": "August",
+      "walk_min": 8,
+      "dist_km": 0.65,
+      "lat": 41.3889909,
+      "lon": 2.1485642,
+      "subway": "L1 \"URGELL\""
     },
     {
       "code": "2090",
@@ -317,9 +339,9 @@
       "rooms": 4,
       "m2": 96,
       "baths": 1,
-      "rent": 1206,
+      "rent": 1251,
       "supplies": 150,
-      "total": 1356,
+      "total": 1401,
       "availability": "Available now",
       "availability_month": 0,
       "availability_month_label": "Available now",

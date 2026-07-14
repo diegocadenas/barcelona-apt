@@ -133,5 +133,10 @@
     "lat": 41.3806445,
     "lon": 2.1687369,
     "query": "D'EN ROIG, CIUTAT VELLA, Barcelona, Spain"
+  },
+  "2018": {
+    "lat": 41.3889909,
+    "lon": 2.1485642,
+    "query": "DEL COMTE D'URGELL, EIXAMPLE ESQUERRA, Barcelona, Spain"
   }
 }
