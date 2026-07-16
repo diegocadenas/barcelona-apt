@@ -1,4 +1,4 @@
-# Barcelona apartment scan — 2026-07-15 12:18
+# Barcelona apartment scan — 2026-07-16 04:10
 
 School: Carrer de Provença 216, Barcelona, Spain
 Criteria: 3+ rooms, ≤40 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no October availability
@@ -9,7 +9,7 @@ Criteria: 3+ rooms, ≤40 min walk, exclude RAVAL, CIUTAT VELLA, HOSPITALET, no 
 |---|------|--------|------|-------|----------|-----------|------|-------|
 | 1 | [2426](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2426) | DE CASANOVA | EIXAMPLE ESQUERRA | 4 | €1517 | 5 August | ~3 min | L1 "URGELL" y L1- L2 "UNIVERSIDAD" |
 | 2 | [2018](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2018) | DEL COMTE D'URGELL | EIXAMPLE ESQUERRA | 3 | €1373 | 30 July | ~8 min | L1 "URGELL" |
-| 3 | [2090](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2090) | DEL ROSSELLÓ | EIXAMPLE DRET | 3 | €1196 | 15 August | ~13 min | L4, L5 "VERDAGUER" |
+| 3 | [2090](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2090) | DEL ROSSELLÓ | EIXAMPLE DRET | 3 | €1198 | 10 August | ~13 min | L4, L5 "VERDAGUER" |
 | 4 | [2473](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2473) | DE GIRONA | EIXAMPLE DRET | 4 | €1985 | Available now | ~15 min | L5 y L4 "VERDAGUER", L3 y L5 "DIAGONAL" y L4 "GIRONA" |
 | 5 | [2322](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2322) | DEL PASSEIG DE SANT JOAN | EIXAMPLE DRET | 3 | €1875 | 8 July | ~19 min | L5 -L4 "VERDAGUER" |
 | 6 | [1798](https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1798) | DE PADILLA | EIXAMPLE DRET | 3 | €1559 | 10 August | ~30 min | L2, L5 "SAGRADA FAMILIA" L5"HOSPITAL ST PAU" |
