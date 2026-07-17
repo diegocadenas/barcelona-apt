@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:07:59.984771",
-  "generated_label": "17 Jul 2026, 18:07",
+  "generated_at": "2026-07-17T20:07:57.005337",
+  "generated_label": "17 Jul 2026, 20:07",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,12 +14,12 @@
       10
     ]
   },
-  "count": 15,
+  "count": 13,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 6
+      "count": 5
     },
     {
       "value": 7,
@@ -29,7 +29,7 @@
     {
       "value": 8,
       "label": "August",
-      "count": 4
+      "count": 3
     },
     {
       "value": 9,
@@ -86,28 +86,6 @@
       "lat": 41.3889909,
       "lon": 2.1485642,
       "subway": "L1 \"URGELL\""
-    },
-    {
-      "code": "2090",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2090",
-      "street": "DEL ROSSELLÓ",
-      "zone": "EIXAMPLE DRET",
-      "tier": 0,
-      "tier_label": "Eixample",
-      "rooms": 3,
-      "m2": 61,
-      "baths": 1,
-      "rent": 1048,
-      "supplies": 150,
-      "total": 1198,
-      "availability": "10 August",
-      "availability_month": 8,
-      "availability_month_label": "August",
-      "walk_min": 13,
-      "dist_km": 1.05,
-      "lat": 41.3847639,
-      "lon": 2.146069,
-      "subway": "L4, L5 \"VERDAGUER\""
     },
     {
       "code": "2473",
@@ -306,28 +284,6 @@
       "lat": 41.4077913,
       "lon": 2.1597415,
       "subway": "L4\"Joanic\", L3 \"Fontana\""
-    },
-    {
-      "code": "2465",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2465",
-      "street": "DE VIOLANT D'HONGRIA REINA D'ARAGO",
-      "zone": "SANTS",
-      "tier": 2,
-      "tier_label": "Other",
-      "rooms": 3,
-      "m2": 71,
-      "baths": 1,
-      "rent": 1111,
-      "supplies": 150,
-      "total": 1261,
-      "availability": "Available now",
-      "availability_month": 0,
-      "availability_month_label": "Available now",
-      "walk_min": 25,
-      "dist_km": 2.09,
-      "lat": 41.3805356,
-      "lon": 2.1347798,
-      "subway": "L5 \"BADAL\" Y L3 \"LES CORTS\""
     },
     {
       "code": "1682",
