@@ -138,5 +138,10 @@
     "lat": 41.3889909,
     "lon": 2.1485642,
     "query": "DEL COMTE D'URGELL, EIXAMPLE ESQUERRA, Barcelona, Spain"
+  },
+  "2257": {
+    "lat": 41.3988611,
+    "lon": 2.1573172,
+    "query": "DE JESUS, GR\u00c0CIA, Barcelona, Spain"
   }
 }
