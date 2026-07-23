@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T16:38:27.627995",
-  "generated_label": "23 Jul 2026, 16:38",
+  "generated_at": "2026-07-23T18:15:10.969832",
+  "generated_label": "23 Jul 2026, 18:15",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,27 +14,22 @@
       10
     ]
   },
-  "count": 13,
+  "count": 10,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 5
+      "count": 4
     },
     {
       "value": 7,
       "label": "July",
-      "count": 4
+      "count": 3
     },
     {
       "value": 8,
       "label": "August",
       "count": 3
-    },
-    {
-      "value": 9,
-      "label": "September",
-      "count": 1
     }
   ],
   "school": {
@@ -110,28 +105,6 @@
       "subway": "L5 y L4 \"VERDAGUER\", L3 y L5 \"DIAGONAL\" y L4 \"GIRONA\""
     },
     {
-      "code": "2322",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2322",
-      "street": "DEL PASSEIG DE SANT JOAN",
-      "zone": "EIXAMPLE DRET",
-      "tier": 0,
-      "tier_label": "Eixample",
-      "rooms": 3,
-      "m2": 140,
-      "baths": 2,
-      "rent": 1700,
-      "supplies": 175,
-      "total": 1875,
-      "availability": "8 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
-      "walk_min": 19,
-      "dist_km": 1.57,
-      "lat": 41.3971568,
-      "lon": 2.1726354,
-      "subway": "L5 -L4 \"VERDAGUER\""
-    },
-    {
       "code": "1798",
       "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1798",
       "street": "DE PADILLA",
@@ -154,28 +127,6 @@
       "subway": "L2, L5 \"SAGRADA FAMILIA\" L5\"HOSPITAL ST PAU\""
     },
     {
-      "code": "1886",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1886",
-      "street": "DE LOS CASTILLEJOS",
-      "zone": "EIXAMPLE DRET",
-      "tier": 0,
-      "tier_label": "Eixample",
-      "rooms": 3,
-      "m2": 84,
-      "baths": 2,
-      "rent": 1302,
-      "supplies": 150,
-      "total": 1452,
-      "availability": "5 September",
-      "availability_month": 9,
-      "availability_month_label": "September",
-      "walk_min": 33,
-      "dist_km": 2.77,
-      "lat": 41.4009503,
-      "lon": 2.1862283,
-      "subway": "L1 \"PLAZA LAS GLORIAS\", L2 \"MONUMENTAL\" L2, L5 \"SAGRADA FAMILIA\""
-    },
-    {
       "code": "2242",
       "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2242",
       "street": "DE BALMES",
@@ -185,9 +136,9 @@
       "rooms": 4,
       "m2": 174,
       "baths": 3,
-      "rent": 1900,
+      "rent": 2000,
       "supplies": 175,
-      "total": 2075,
+      "total": 2175,
       "availability": "7 August",
       "availability_month": 8,
       "availability_month_label": "August",
@@ -284,28 +235,6 @@
       "lat": 41.4077913,
       "lon": 2.1597415,
       "subway": "L4\"Joanic\", L3 \"Fontana\""
-    },
-    {
-      "code": "1682",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1682",
-      "street": "CARRETERA DE LA BORDETA",
-      "zone": "BORDETA",
-      "tier": 2,
-      "tier_label": "Other",
-      "rooms": 4,
-      "m2": 96,
-      "baths": 1,
-      "rent": 1251,
-      "supplies": 150,
-      "total": 1401,
-      "availability": "Available now",
-      "availability_month": 0,
-      "availability_month_label": "Available now",
-      "walk_min": 28,
-      "dist_km": 2.3,
-      "lat": 41.3725768,
-      "lon": 2.1422003,
-      "subway": "L1, L3 \"ESPANYA\""
     },
     {
       "code": "1472",
