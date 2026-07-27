@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T18:42:45.811011",
-  "generated_label": "27 Jul 2026, 18:42",
+  "generated_at": "2026-07-27T20:24:42.730288",
+  "generated_label": "27 Jul 2026, 20:24",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,17 +14,17 @@
       10
     ]
   },
-  "count": 11,
+  "count": 10,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 4
+      "count": 5
     },
     {
       "value": 7,
       "label": "July",
-      "count": 3
+      "count": 1
     },
     {
       "value": 8,
@@ -73,9 +73,9 @@
       "rent": 1233,
       "supplies": 140,
       "total": 1373,
-      "availability": "30 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
+      "availability": "Available now",
+      "availability_month": 0,
+      "availability_month_label": "Available now",
       "walk_min": 8,
       "dist_km": 0.65,
       "lat": 41.3889909,
@@ -235,28 +235,6 @@
       "lat": 41.4043637,
       "lon": 2.1697748,
       "subway": "L4 \"JOANIC\""
-    },
-    {
-      "code": "1230",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1230",
-      "street": "DE LA LEGALITAT",
-      "zone": "GRÀCIA",
-      "tier": 1,
-      "tier_label": "Gràcia area",
-      "rooms": 4,
-      "m2": 82,
-      "baths": 1,
-      "rent": 1200,
-      "supplies": 180,
-      "total": 1380,
-      "availability": "6 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
-      "walk_min": 23,
-      "dist_km": 1.95,
-      "lat": 41.4077913,
-      "lon": 2.1597415,
-      "subway": "L4\"Joanic\", L3 \"Fontana\""
     },
     {
       "code": "1472",
