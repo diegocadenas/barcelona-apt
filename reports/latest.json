@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T07:41:03.263951",
-  "generated_label": "28 Jul 2026, 07:41",
+  "generated_at": "2026-07-28T10:38:49.284404",
+  "generated_label": "28 Jul 2026, 10:38",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,12 +14,12 @@
       10
     ]
   },
-  "count": 10,
+  "count": 9,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 5
+      "count": 4
     },
     {
       "value": 7,
@@ -81,28 +81,6 @@
       "lat": 41.3889909,
       "lon": 2.1485642,
       "subway": "L1 \"URGELL\""
-    },
-    {
-      "code": "2473",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2473",
-      "street": "DE GIRONA",
-      "zone": "EIXAMPLE DRET",
-      "tier": 0,
-      "tier_label": "Eixample",
-      "rooms": 4,
-      "m2": 110,
-      "baths": 3,
-      "rent": 1805,
-      "supplies": 180,
-      "total": 1985,
-      "availability": "Available now",
-      "availability_month": 0,
-      "availability_month_label": "Available now",
-      "walk_min": 15,
-      "dist_km": 1.27,
-      "lat": 41.3962908,
-      "lon": 2.1691766,
-      "subway": "L5 y L4 \"VERDAGUER\", L3 y L5 \"DIAGONAL\" y L4 \"GIRONA\""
     },
     {
       "code": "1798",
