@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T18:09:42.218834",
-  "generated_label": "29 Jul 2026, 18:09",
+  "generated_at": "2026-07-30T00:02:53.355176",
+  "generated_label": "30 Jul 2026, 00:02",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,22 +14,17 @@
       10
     ]
   },
-  "count": 9,
+  "count": 8,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 4
-    },
-    {
-      "value": 7,
-      "label": "July",
-      "count": 1
+      "count": 5
     },
     {
       "value": 8,
       "label": "August",
-      "count": 4
+      "count": 3
     }
   ],
   "school": {
@@ -139,9 +134,9 @@
       "rent": 1212,
       "supplies": 150,
       "total": 1362,
-      "availability": "5 August",
-      "availability_month": 8,
-      "availability_month_label": "August",
+      "availability": "Available now",
+      "availability_month": 0,
+      "availability_month_label": "Available now",
       "walk_min": 11,
       "dist_km": 0.93,
       "lat": 41.3988611,
@@ -191,28 +186,6 @@
       "lat": 41.4047406,
       "lon": 2.1533809,
       "subway": "L3 \"FONTANA\""
-    },
-    {
-      "code": "2352",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2352",
-      "street": "DE SICÍLIA",
-      "zone": "GRÀCIA",
-      "tier": 1,
-      "tier_label": "Gràcia area",
-      "rooms": 3,
-      "m2": 82,
-      "baths": 1,
-      "rent": 1228,
-      "supplies": 150,
-      "total": 1378,
-      "availability": "10 July",
-      "availability_month": 7,
-      "availability_month_label": "July",
-      "walk_min": 23,
-      "dist_km": 1.92,
-      "lat": 41.4043637,
-      "lon": 2.1697748,
-      "subway": "L4 \"JOANIC\""
     },
     {
       "code": "1472",
