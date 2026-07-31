@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T17:38:21.833084",
-  "generated_label": "30 Jul 2026, 17:38",
+  "generated_at": "2026-07-31T03:17:45.352804",
+  "generated_label": "31 Jul 2026, 03:17",
   "school_address": "Carrer de Provença 216, Barcelona, Spain",
   "criteria": {
     "min_rooms": 3,
@@ -14,17 +14,17 @@
       10
     ]
   },
-  "count": 8,
+  "count": 6,
   "available_months": [
     {
       "value": 0,
       "label": "Available now",
-      "count": 5
+      "count": 4
     },
     {
       "value": 8,
       "label": "August",
-      "count": 3
+      "count": 2
     }
   ],
   "school": {
@@ -56,28 +56,6 @@
       "subway": "L1 \"URGELL\" y L1- L2 \"UNIVERSIDAD\""
     },
     {
-      "code": "2018",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2018",
-      "street": "DEL COMTE D'URGELL",
-      "zone": "EIXAMPLE ESQUERRA",
-      "tier": 0,
-      "tier_label": "Eixample",
-      "rooms": 3,
-      "m2": 67,
-      "baths": 2,
-      "rent": 1233,
-      "supplies": 140,
-      "total": 1373,
-      "availability": "Available now",
-      "availability_month": 0,
-      "availability_month_label": "Available now",
-      "walk_min": 8,
-      "dist_km": 0.65,
-      "lat": 41.3889909,
-      "lon": 2.1485642,
-      "subway": "L1 \"URGELL\""
-    },
-    {
       "code": "1798",
       "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=1798",
       "street": "DE PADILLA",
@@ -98,28 +76,6 @@
       "lat": 41.4103432,
       "lon": 2.171069,
       "subway": "L2, L5 \"SAGRADA FAMILIA\" L5\"HOSPITAL ST PAU\""
-    },
-    {
-      "code": "2242",
-      "url": "https://www.habitatgejove.com/webv2c/en/piso.asp?CODI=2242",
-      "street": "DE BALMES",
-      "zone": "SANT GERVASI",
-      "tier": 1,
-      "tier_label": "Gràcia area",
-      "rooms": 4,
-      "m2": 174,
-      "baths": 3,
-      "rent": 2000,
-      "supplies": 175,
-      "total": 2175,
-      "availability": "7 August",
-      "availability_month": 8,
-      "availability_month_label": "August",
-      "walk_min": 11,
-      "dist_km": 0.88,
-      "lat": 41.3975931,
-      "lon": 2.1514091,
-      "subway": "FGC \"SANT GERVASI\" y \"PL.MOLINA\""
     },
     {
       "code": "2257",
